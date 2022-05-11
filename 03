@@ -1,0 +1,19 @@
+programa
+{
+	funcao inicio()
+	{
+		inteiro y, e
+		escreva("Informe um numero: \n")
+		leia(i)
+
+		para( y = 1; y <= i; y++ ){
+
+
+			se (y % 5 == 0)	
+
+
+				escreva(y, "\n")
+		}
+	}
+}
+
